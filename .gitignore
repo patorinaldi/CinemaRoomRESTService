@@ -1,0 +1,31 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room REST Service with Java/*
+!/Cinema Room REST Service with Java/task/
+/Cinema Room REST Service with Java/task/*
+!/Cinema Room REST Service with Java/task/src
+!/Cinema Room REST Service with Java/task/build.gradle
+
+# Project exclude paths
+/Topics/For loop/The count of numbers divisible by N/out/
+/Topics/For loop/The count of numbers divisible by N/out/production/classes/
+/Topics/Multidimensional array/Create cube/out/
+/Topics/Multidimensional array/Create cube/out/production/classes/
+/Topics/Multidimensional array/Reverse elements/out/
+/Topics/Multidimensional array/Reverse elements/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Summing with threads/out/
+/Topics/Thread management/Summing with threads/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
